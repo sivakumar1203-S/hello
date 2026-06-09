@@ -19,7 +19,7 @@
 
 
 
-void main(){
+/*void main(){
     int[][] attendence = {
             {0, 1, 0},
             {1, 0, 0},
@@ -39,4 +39,25 @@ void main(){
         System.out.println();
             }
         }
+ */
 
+
+
+void main(){
+    System.out.println(add(2,3));
+    System.out.println(subtration(65,5));
+    System.out.println(multiplication(2,95));
+    System.out.println(division(96,3));
+}
+public int add(int a,int b){
+    return a+b;
+}
+public int subtration(int a,int b){
+    return a-b;
+}
+public int multiplication(int a,int b){
+    return a*b;
+}
+public int division(int a,int b){
+    return a/b;
+}
