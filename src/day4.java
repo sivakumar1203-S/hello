@@ -1,4 +1,4 @@
-/*void main() {
+ /*void main() {
     //int[] marks = new int[5];
     int[][] marks = new int[5][5];
     int[][] studentMarks = {
@@ -43,7 +43,7 @@
 
 
 
-void main(){
+/*void main(){
     System.out.println(add(2,3));
     System.out.println(subtration(65,5));
     System.out.println(multiplication(2,95));
@@ -61,3 +61,4 @@ public int multiplication(int a,int b){
 public int division(int a,int b){
     return a/b;
 }
+*/
