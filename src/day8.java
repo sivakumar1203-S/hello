@@ -7,3 +7,6 @@ public class day8 {
         System.out.println(studentRecord.department());
     }
 }
+
+
+
