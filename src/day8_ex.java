@@ -1,4 +1,4 @@
-public class day8_ex {
+  public class day8_ex {
 
    
     sealed interface LoginResult permits LoginSuccess, LoginFailure, LoginLoading {

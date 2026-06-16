@@ -12,7 +12,7 @@
                 for(int col=0;col<marks[row].length;col++){
                     total+=marks[row][col];
              }  
-                avg=total/3.0;
+                avg = total/3.0;
                 System.out.println("Student"+(row+1));
                 System.out.println("Total"+total);
                 System.out.println("Average"+avg);
