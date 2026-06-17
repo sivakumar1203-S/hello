@@ -1,5 +1,5 @@
 import java.util.LinkedList;
-public class day10A {
+public class day10a {
 
     static class Student {
         String name;
@@ -19,8 +19,8 @@ public class day10A {
 
     static void updateStudent(LinkedList<Student> students) {
         for (Student s : students) {
-            if (s.name.equals("Deepa")) {
-                s.marks = 95; // Update marks from 85 to 95
+            if (s.name.equals("Naveen")) {
+                s.marks = 95;
             }
         }
     }
@@ -48,7 +48,7 @@ public class day10A {
             System.out.println(
                     s.name + " " +
                             s.regNo + " " +
-                            s.marks
+                            s.marks + " "
             );
         }
     }

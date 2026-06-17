@@ -9,7 +9,9 @@
         System.out.println();
     }
 }*/
-void main(){
+
+
+/*void main(){
     int[] marks = {87,32,44,89,23};
 
     System.out.print("Pass marks : ");
@@ -26,4 +28,4 @@ void main(){
             System.out.print(marks[i] + ",");
         }
     }
-}
+}*/
