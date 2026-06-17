@@ -14,6 +14,5 @@ public class day10_linked {
     static void process(LinkedList<String> queue){
         String removed=queue.removeFirst();
         System.out.println("Removed:"+removed);
-
     }
 }
