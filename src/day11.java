@@ -15,6 +15,10 @@ public class day11 {
 
     }
 }*/
+
+
+
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -30,5 +34,4 @@ public class day11 {
             System.out.println(entry.getKey() + " : " + entry.getValue());
         });
     }
-
 }
